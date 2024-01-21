@@ -8,7 +8,7 @@ const KanbanColumn = ({ title, tickets }) => {
     // flexDirection: title === 'Todo' ? 'column' : 'row',
     gap: '8px',
     borderRadius: '8px', // Add curved border
-    border: '1px solid #ccc', // Add border
+    // border: '1px solid #ccc', // Add border
     padding: '8px',
     marginBottom: '16px', // Add space between columns
   };
