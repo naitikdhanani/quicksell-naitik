@@ -6,7 +6,8 @@ const KanbanTicketCard = ({ ticket }) => {
     border: '1px solid #ccc',
     borderRadius: '8px', // Add curved border
     padding: '8px',
-    marginBottom: '8px', // Add space between cards
+    marginBottom: '8px',
+    boxShadow:'0 6px 10px rgba(0, 1, 0, 0.5)', // Add space between cards
   };
 
   return (
